@@ -1,2 +1,2 @@
 # GCSpeedrunBot
-# Speedrun Google Clasroom.
+### Speedrun Google Clasroom.
