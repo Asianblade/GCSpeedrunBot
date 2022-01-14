@@ -1,0 +1,2 @@
+# GCSpeedrunBot
+# Speedrun Google Clasroom.
