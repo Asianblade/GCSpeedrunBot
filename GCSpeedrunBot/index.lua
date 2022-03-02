@@ -53,7 +53,7 @@ local url = "https://classroom.google.com"
  
 local data = 
     {
-       ["content"] = "[GCSpeedRunbot], " time.append(tostring{__newindex})
+       ["content"] = "[GCSpeedRunbot] Completed in" ...time.append(tostring{__newindex})...  "seconds." -- newindex mm declared
             },
         }}
     }
