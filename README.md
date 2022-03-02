@@ -1,5 +1,5 @@
-# GCSpeedrunBot
-### Speedrun Google Clasroom.
+<center> # GCSpeedrunBot </center>
+<center> ### Speedrun Google Clasroom. </center>
 
 
 # Build
