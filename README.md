@@ -1,5 +1,5 @@
 <h1 align="center">GCSpeedrunBot</h1><br>
-<h3 align="center"> um idk speedruns gc </h3>
+<h3 align="center"> um idk speedruns google classroom </h3>
 
 
 # Build
