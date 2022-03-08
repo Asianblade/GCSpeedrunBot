@@ -7,7 +7,8 @@
 um just run it dumbass
 
 # Customize
-Learn lua.
+kys 
 
 # Contribute
 Use VSC or some random software. Don't be Jeff Lam and use BLENDER nitwit
+
